@@ -1,6 +1,6 @@
 # Adolphe's Portfolio
 
-![Portfolio Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![Portfolio Screenshot](./screenshot.jpg) <!-- Add a screenshot if available -->
 
 A modern, responsive portfolio website showcasing my projects, skills, and professional experience.
 
